@@ -23,7 +23,7 @@ import (
 	"time"
 
 	"github.com/jessevdk/go-flags"
-	"github.com/schollz/progressbar/v2"
+	"github.com/schollz/progressbar"
 )
 
 const version string = "1.0.0"
